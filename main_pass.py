@@ -1,4 +1,4 @@
-#Author : Eliel Gonzalez
+#Author: Eliel Gonzalez
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox
 from PasswordG import *
 from Password_function import *
